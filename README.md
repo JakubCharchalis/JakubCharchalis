@@ -4,8 +4,3 @@
 <br/>
 <h2 align="center">Check out my projects below</h2>
 <h3>xx</h3>
-
-<!---
-JakubCharchalis/JakubCharchalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
